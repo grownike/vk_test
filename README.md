@@ -17,6 +17,6 @@ Worker - структура, представляющая воркер
 # Установка и запуск
 ```bash
    git clone https://github.com/grownike/vk_test
-   cd vk_test
+   cd .\vk_test\
    go get -u github.com/joho/godotenv
    go run main.go
